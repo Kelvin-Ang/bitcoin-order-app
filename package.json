@@ -55,5 +55,5 @@
     "build": "NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
     "test:unit": "NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service test:unit",
     "lint": "NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint"
-  },
+  }
 }
